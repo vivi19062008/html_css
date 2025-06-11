@@ -4,30 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+VIC+WA+NT+Hand:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+VIC+WA+NT+Hand:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
-body{
-    margin: 0;
-    padding: 0;
-}
-h1, h2 {
-    font-family: "Edu VIC WA NT Hand", sans-serif;
-    font-weight: 2000;
-    font-style: italic;
-    padding: 10px 15px 20px 25px;
-    color: goldenrod;
-}
-h3{
-    font-family: "Edu VIC WA NT Hand", sans-serif;
-    color: rgb(212, 10, 10);
+.FASHION{
+    padding: 20px 30px;
 }
 
-p{font-family: 'Times New Roman', Times, serif;
-    color: rgb(10, 65, 10);
-
-}
-h1, h2, h3{
-    font-size: 300%;
-}
-p {
-    font-size: 30px;
-    font-family: "Edu VIC WA Hand ";
-}
+    .FASHION__female{
+        padding: 10px;
+    }
