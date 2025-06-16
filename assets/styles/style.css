@@ -11,3 +11,20 @@
     .FASHION__female{
         padding: 10px;
     }
+
+    .FASHION__female-h{
+        font-size: 40px;
+        text-shadow: 3px, 3px;
+    }
+
+    .FASHION__female-p{
+        .p{
+            font-family: "Monsieur La Doulaise Static", 'Edu VIC WA NT Hand', Times, serif
+        }
+        font-size: 25px;
+        color: rgba(145, 7, 7, 0.767);
+        padding-top: 10px;
+        margin: auto;
+        width: 50%;
+    }
+
